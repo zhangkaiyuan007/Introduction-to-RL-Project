@@ -1,5 +1,6 @@
-# part 2
+# Part 2
 import gymnasium as gym
+import numpy as np
 import matplotlib.pyplot as plt
 
 
