@@ -1,7 +1,5 @@
 # Part 1
 import gymnasium as gym
-import numpy as np
-import matplotlib.pyplot as plt
 from time import sleep
 
 env = gym.make('CartPole-v1', render_mode='human')
