@@ -1,4 +1,4 @@
-import numpy as np
+# part 2
 import gymnasium as gym
 import matplotlib.pyplot as plt
 
